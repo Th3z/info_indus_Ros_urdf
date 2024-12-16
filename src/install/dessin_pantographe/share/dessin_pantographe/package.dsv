@@ -1,0 +1,8 @@
+source;share/dessin_pantographe/hook/cmake_prefix_path.ps1
+source;share/dessin_pantographe/hook/cmake_prefix_path.dsv
+source;share/dessin_pantographe/hook/cmake_prefix_path.sh
+source;share/dessin_pantographe/local_setup.bash
+source;share/dessin_pantographe/local_setup.dsv
+source;share/dessin_pantographe/local_setup.ps1
+source;share/dessin_pantographe/local_setup.sh
+source;share/dessin_pantographe/local_setup.zsh
