@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/chunedruart/info_indus_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/chunedruart/info_indus_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/chunedruart/info_indus_ws/src/DynamixelSDK/dynamixel_sdk/include/**",
+        "/home/chunedruart/info_indus_ws/src/DynamixelSDK/dynamixel_sdk_examples/include/**",
+        "/home/chunedruart/info_indus_ws/src/scara_tutorial_ros2/scara_controllers/scara_joint_velocity_controller/include/**",
+        "/home/chunedruart/info_indus_ws/src/scara_tutorial_ros2/scara_hardware/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
